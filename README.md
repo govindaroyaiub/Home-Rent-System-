@@ -1,4 +1,7 @@
-Home Rent System 
+Intro:
+A system where user will be able to sign up to be a “Home Renter” or a “Landowner”. Landowner will be able to upload the pictures and give the rent also other details of the house. Whereas, Home Renter will be able to see those details. And lastly, Admin who can Create, Read, Update, Delete the date from the database.
+
+Instructions:
 Before running the project make sure you have 'Data storage and processing" installed from Workloads with visual studio. 
 And after installation, make sure to change the Database connectivity path. 
 Description: To help the users to find new homes and upload rent for the users is the main theme of this project. Here the user can sign up for 2 different Categories: Home Renter, who is seraching for home. And other one is Landowner, who will post for To-let. Home Renter can only see the details of the house and the landowner can upload the images and also give the details of the house. 
